@@ -8,8 +8,8 @@ import io.reactivex.Observable
 
 class MarvelClient(context: Context) : MarvelApi {
     companion object {
-        const val PUBLIC_KEY = "a7bf8dfb113f7fe062d9a53f98372283"
-        const val PRIVATE_KEY = "7ee982462937b9143936edfc37ba1aec65110284"
+        const val PUBLIC_KEY = ""
+        const val PRIVATE_KEY = ""
         const val TIME_SPAN = 1000
     }
 
