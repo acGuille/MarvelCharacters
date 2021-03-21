@@ -1,0 +1,3 @@
+include ':marvelapi'
+include ':app'
+rootProject.name = "MarvelCharacters"

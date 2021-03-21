@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarvelCharacters</string>
+    <string name="connection_error">Connection error. Please try again.</string>
+    <string name="generic_error">An unexpected error has occurred.</string>
+</resources>

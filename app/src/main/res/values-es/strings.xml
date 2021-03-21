@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MarvelCharacters</string>
+    <string name="connection_error">Error de conexión. Inténtelo de nuevo.</string>
+    <string name="generic_error">Ha ocurrido un error inesperado.</string>
+</resources>
